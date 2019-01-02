@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FanControlConfigV2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <NotebookModel>Ideapad 700-15ISK </NotebookModel>
+  <NotebookModel>Ideapad 700-15ISK HARD GAME MODE </NotebookModel>
   <Author>SLOVE</Author>
   <EcPollInterval>750</EcPollInterval>
   <ReadWriteWords>false</ReadWriteWords>
@@ -24,28 +24,28 @@
           <FanSpeed>0</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>20</UpThreshold>
-          <DownThreshold>15</DownThreshold>
+          <UpThreshold>60</UpThreshold>
+          <DownThreshold>48</DownThreshold>
           <FanSpeed>10</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>30</UpThreshold>
-          <DownThreshold>25</DownThreshold>
+          <UpThreshold>63</UpThreshold>
+          <DownThreshold>55</DownThreshold>
           <FanSpeed>20</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>40</UpThreshold>
-          <DownThreshold>35</DownThreshold>
+          <UpThreshold>66</UpThreshold>
+          <DownThreshold>59</DownThreshold>
           <FanSpeed>50</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>50</UpThreshold>
-          <DownThreshold>45</DownThreshold>
+          <UpThreshold>68</UpThreshold>
+          <DownThreshold>63</DownThreshold>
           <FanSpeed>70</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>60</UpThreshold>
-          <DownThreshold>55</DownThreshold>
+          <UpThreshold>71</UpThreshold>
+          <DownThreshold>67</DownThreshold>
           <FanSpeed>100</FanSpeed>
         </TemperatureThreshold>
       </TemperatureThresholds>
@@ -69,28 +69,28 @@
           <FanSpeed>0</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>20</UpThreshold>
-          <DownThreshold>15</DownThreshold>
+          <UpThreshold>60</UpThreshold>
+          <DownThreshold>48</DownThreshold>
           <FanSpeed>10</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>30</UpThreshold>
-          <DownThreshold>25</DownThreshold>
+          <UpThreshold>63</UpThreshold>
+          <DownThreshold>55</DownThreshold>
           <FanSpeed>20</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>40</UpThreshold>
-          <DownThreshold>35</DownThreshold>
+          <UpThreshold>66</UpThreshold>
+          <DownThreshold>59</DownThreshold>
           <FanSpeed>50</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>50</UpThreshold>
-          <DownThreshold>45</DownThreshold>
+          <UpThreshold>68</UpThreshold>
+          <DownThreshold>63</DownThreshold>
           <FanSpeed>70</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>60</UpThreshold>
-          <DownThreshold>55</DownThreshold>
+          <UpThreshold>71</UpThreshold>
+          <DownThreshold>67</DownThreshold>
           <FanSpeed>100</FanSpeed>
         </TemperatureThreshold>
       </TemperatureThresholds>
